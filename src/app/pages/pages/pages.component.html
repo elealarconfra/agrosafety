@@ -1,0 +1,12 @@
+<section class = "categories">
+  <mat-card class="card" *ngFor="let category of categories">
+    <mat-card-header>{{category.name}}</mat-card-header>
+    <mat-card-content>{{category.description}}</mat-card-content>
+    <mat-card-actions>
+      <button mat-flat-button color="secondary">{{category.name}}
+        <mat-icon>person</mat-icon>
+      </button>
+
+    </mat-card-actions>
+  </mat-card>
+</section>

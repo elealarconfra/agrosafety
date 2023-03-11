@@ -1,0 +1,86 @@
+{
+  "categories": [
+    {
+      "id": 1234,
+      "name": "Agricultores",
+      "description": "Registro de información de agricultores"
+    },
+    {
+      "id": 5678,
+      "name": "Producción",
+      "description": "Registro de información de producción agrícola"
+    },
+    {
+      "id": 9012,
+      "name": "Ventas",
+      "description": "Registro de información de ventas de productos agrícolas"
+    },
+    {
+      "id": 3456,
+      "name": "Fertilización",
+      "description": "Registro de información de fertilización de cultivos"
+    },
+    {
+      "id": 7890,
+      "name": "Labores",
+      "description": "Registro de información de labores agrícolas"
+    },
+    {
+      "id": 2345,
+      "name": "Aplicaciones Fitosanitarias",
+      "description": "Registro de información de aplicaciones fitosanitarias"
+    },
+    {
+      "id": 6789,
+      "name": "Mano de Obra",
+      "description": "Registro de información de mano de obra agrícola"
+    }
+  ],
+  "Suppliers": [
+    {
+      "id": 1,
+      "name": "Juan Perez",
+      "crop": "gulupa",
+      "area": 2.5,
+      "estimatedProduction": 750,
+      "income": 2250000,
+      "correctionFactor": 1.2
+    },
+    {
+      "id": 2,
+      "name": "Maria Rodriguez",
+      "crop": "gulupa",
+      "area": 3,
+      "estimatedProduction": 900,
+      "income": 2700000,
+      "correctionFactor": 1.1
+    },
+    {
+      "id": 3,
+      "name": "Pedro Gomez",
+      "crop": "gulupa",
+      "area": 4,
+      "estimatedProduction": 1200,
+      "income": 3600000,
+      "correctionFactor": 1.3
+    },
+    {
+      "id": 4,
+      "name": "Ana Martinez",
+      "crop": "gulupa",
+      "area": 2,
+      "estimatedProduction": 600,
+      "income": 1800000,
+      "correctionFactor": 1.2
+    },
+    {
+      "id": 5,
+      "name": "Luisa Hernandez",
+      "crop": "gulupa",
+      "area": 3.5,
+      "estimatedProduction": 1050,
+      "income": 3150000,
+      "correctionFactor": 1.1
+    }
+  ]
+}
