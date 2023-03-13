@@ -3,37 +3,44 @@
     {
       "id": 1234,
       "name": "Agricultores",
-      "description": "Registro de información de agricultores"
+      "description": "Registro de información de agricultores",
+      "image": "https://static.wixstatic.com/media/1b0c15_20ae7ea155374e5dae9ec06a5a36f065~mv2.jpg/v1/fill/w_925,h_618,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/1b0c15_20ae7ea155374e5dae9ec06a5a36f065~mv2.jpg"
     },
     {
       "id": 5678,
       "name": "Producción",
-      "description": "Registro de información de producción agrícola"
+      "description": "Registro de información de producción agrícola",
+      "image": "http://spanish.peopledaily.com.cn/NMediaFile/2020/1225/FOREIGN202012251555000417235581002.jpg"
     },
     {
       "id": 9012,
       "name": "Ventas",
-      "description": "Registro de información de ventas de productos agrícolas"
+      "description": "Registro de información de ventas de productos agrícolas",
+      "image": "https://es-commerce.com/imagenes/vender-fruta-online.jpg"
     },
     {
       "id": 3456,
       "name": "Fertilización",
-      "description": "Registro de información de fertilización de cultivos"
+      "description": "Registro de información de fertilización de cultivos",
+      "image": "https://cdn.shopify.com/s/files/1/0265/8802/0845/articles/fertilizantes1_600x.jpg?v=1648560389"
     },
     {
       "id": 7890,
       "name": "Labores",
-      "description": "Registro de información de labores agrícolas"
+      "description": "Registro de información de labores agrícolas",
+      "image": "https://hidroponia.mx/wp-content/uploads/2015/09/poda-1.jpg"
     },
     {
       "id": 2345,
       "name": "Aplicaciones Fitosanitarias",
-      "description": "Registro de información de aplicaciones fitosanitarias"
+      "description": "Registro de información de aplicaciones fitosanitarias",
+      "image": "https://www.areadron.com/wp-content/uploads/Post_Facebook-05-11.png"
     },
     {
       "id": 6789,
       "name": "Mano de Obra",
-      "description": "Registro de información de mano de obra agrícola"
+      "description": "Registro de información de mano de obra agrícola",
+      "image": "https://d1lofqbqbj927c.cloudfront.net/monumental/2019/10/01091922/agricultores-1024x622.jpg"
     }
   ],
   "Suppliers": [

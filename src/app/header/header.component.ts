@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-header',
   template: `
   <mat-toolbar color="primary">
-    <span>My Application</span>
+    <span>AGROSAFETY</span>
   </mat-toolbar>
 `,
   styleUrls: ['./header.component.scss']

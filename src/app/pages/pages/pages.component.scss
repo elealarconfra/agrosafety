@@ -1,0 +1,23 @@
+section.categories{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+
+  .card{
+    margin: 5px;
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 150px;
+    height: 100%;
+  }
+  img{
+    opacity: 0.8;
+  }
+  button{
+    width: 100%;
+  }
+}
+
+
