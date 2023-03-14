@@ -1,16 +1,3 @@
 <section class = "categories">
-  <mat-card class="card" *ngFor="let category of categories">
-    <img mat-card-image [src]="category.image" [alt]="category.name"/>
-    <mat-card-header class="title">
-      <mat-card-title>
-        {{category.name}}
-      </mat-card-title>
-    </mat-card-header>
-    <mat-card-content>{{category.description}}</mat-card-content>
-    <mat-card-actions>
-      <button mat-flat-button color="primary">{{category.name}}
-        <mat-icon>person</mat-icon>
-      </button>
-    </mat-card-actions>
-  </mat-card>
+  <app-categories [category]="category" *ngFor="let category of categories"></app-categories>
 </section>
